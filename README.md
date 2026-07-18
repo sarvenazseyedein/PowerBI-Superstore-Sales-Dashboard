@@ -30,6 +30,7 @@ This project presents an interactive sales dashboard built in Microsoft Power BI
 
 ## 📷 Dashboard Preview
 
+### Sales Overview
 ![Dashboard 1](Page1.png)
 
 ### Sales Analysis
@@ -38,17 +39,14 @@ This project presents an interactive sales dashboard built in Microsoft Power BI
 ### Map Analysis
 ![Dashboard 3](Page3.png)
 
-### Scatter Analysis
+### Top Customers
 ![Dashboard 4](Page4.png)
 
-### Top Customers
+### Sales vs Profit Analysis
 ![Dashboard 5](Page5.png)
 
-### Additional Insights
+### Product Performance
 ![Dashboard 6](Page6.png)
-
-
-
 
 
 
