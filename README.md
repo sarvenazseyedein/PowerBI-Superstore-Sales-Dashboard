@@ -21,7 +21,7 @@ This project presents an interactive sales dashboard built in Microsoft Power BI
 ## 📂 Files
 - Superstore Dashboard.pbix – Power BI report
 - sample_-_superstore.xls – Source dataset
-- Page1.png – Dashboard Preview
+- Page 1.png – Dashboard Preview
 - Page2.png
 - Page3.png
 - Page4.png
